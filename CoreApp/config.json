@@ -1,0 +1,19 @@
+﻿{
+  "colors": {
+    "Favorite": "blue"
+  },
+  "ConnectionStrings": {
+    "MyAppConnectionString": "server=(localdb)\\ProjectsV13;Database=MyAppDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "asfasf3t22523gs;as;2",
+    "Issuer": "localhost",
+    "Audience": ""
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.deps.json
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.runtimeconfig.json
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.runtimeconfig.dev.json
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.dll
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.pdb
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.csprojResolveAssemblyReference.cache
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.AssemblyInfoInputs.cache
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.AssemblyInfo.cs
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.dll
+C:\Users\Andrius\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.pdb
